@@ -3,6 +3,8 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 
+//O codigo responsavel por inicializar tudo
+
 new Vue({
   render: h => h(App),
 }).$mount('#app')
