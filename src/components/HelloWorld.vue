@@ -3,7 +3,7 @@
     <!--Ligação de dados por meio da diretiva, ou seja está sendo realizado o data binding-->
     <h1>{{ msg }}</h1>
     <div>
-      <!-- Interpolação: v-bind="" -->
+      <!--Ligação de dados por meio da Interpolação: v-bind="" -->
       <span v-if="visibilidade">Olá</span>
     </div>
     </div>
