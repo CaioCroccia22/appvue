@@ -4,7 +4,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <!--Feita a importação do Helloworld.vue é possível referênciar ela no template do Vue.js-->
     <!--Após isso temos o atributo msg, que é criado manualmente para receber um valor-->
-    <HelloWorld msg="Olá mundo"/>
+    <HelloWorld msg="Olá mundo" visibilidade="True"/>
   </div>
 </template>
 
